@@ -1,4 +1,4 @@
-### Hi， I am Ark65 
+### Hi 👋 I am Ark65 
 
 <!--
 **ark-65/ark-65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

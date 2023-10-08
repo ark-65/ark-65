@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Ark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=nightowl?count_private=true)](https://github.com/ark-65)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&hide=html)](https://github.com/ark-65)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&hide=html,starlark)](https://github.com/ark-65)

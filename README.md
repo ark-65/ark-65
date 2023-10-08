@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=nightowl)](https://github.com/ark-65)
+[![Ark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=nightowl)](https://github.com/ark-65)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65)](https://github.com/ark-65)

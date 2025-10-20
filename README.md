@@ -2,7 +2,7 @@
 
 # 🌌 Welcome to Ark 65's Digital Realm 🌌
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Code+Sorcerer+%F0%9F%94%AE+%7C+DevWizard+Level+99;Building+Digital+Wonders+%E2%9C%A8;Taming+Code+Dragons+%F0%9F%90%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Code+Sorcerer+%F0%9F%94%AE+%7C+DevWizard+Level+99;Building+Digital+Wonders+%E2%9C%A8;Taming+Code+Dragons+%F0%9F%90%89)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 

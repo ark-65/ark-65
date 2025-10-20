@@ -59,16 +59,28 @@ const ark65 = {
 
 <p align="center">
   <a href="https://github.com/zhongmiao-org/ngx-puzzle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=ngx-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=ngx-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=ngx-puzzle&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=ngx-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" alt="ngx-puzzle" />
+    </picture>
   </a>
   <a href="https://github.com/zhongmiao-org/intercept-wave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" alt="intercept-wave" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zhongmiao-org/intercept-wave-vscode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave-vscode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave-vscode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave-vscode&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave-vscode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" alt="intercept-wave-vscode" />
+    </picture>
   </a>
 </p>
 

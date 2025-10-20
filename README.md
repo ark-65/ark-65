@@ -77,22 +77,42 @@ const ark65 = {
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" width="49%" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" width="41%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=default&hide_border=true&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" width="41%" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=github-compact&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="100%" alt="Activity Graph" />
+  </picture>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ark-65&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ark-65&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ark-65&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ark-65&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  </picture>
 </p>
 
 ## 🐍 Contribution Snake

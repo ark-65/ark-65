@@ -1,21 +1,131 @@
-╔════════════════════════════════════════════════════╗  
-║ Howdy, folks! I'm Ark 65, your friendly neighborhood code sorcerer. 🔮✨ &emsp;&emsp;&nbsp;&nbsp;║  
-║ When I'm not wrestling with bugs, you'll find me crafting digital wonders &emsp;&emsp;&emsp;&nbsp;║  
-║ in the mystical realms of HTML, CSS, and JavaScript. 💻✨🌐&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;║  
-║&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;║  
-║ 💡 Magic Arsenal: Angular spells, Vue enchantments, and a dash of Java magic.║  
-║ 🚀 Quest: Building castles in the cloud and taming unruly code dragons.&emsp;&emsp;&emsp;&nbsp;&nbsp;║  
-║&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;║  
-║ 🎮 Fun Fact: In the coding multiverse, I'm a Level 99 DevWizard with a&emsp;&emsp;&emsp;&emsp;&nbsp;║  
-║&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;legendary pet dragon named Bugbane. 🐉🛡️&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;║  
-║&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;║  
-║ ⚔️ Battle Cry: "By the power of git push, bugs be gone!" 🤖💥&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;║  
-║&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;║  
-║ 🎸 When not coding incantations, I'm jamming to the tunes of HTML Harmony &nbsp;║  
-║    and the CSS Serenade. If my code were a playlist, it'd be a chart-topper!  🌈✨ &nbsp;║  
-╚════════════════════════════════════════════════════╝
+<div align="center">
 
-[![Ark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=nightowl&count_private=true)](https://github.com/ark-65)
+# 🌌 Welcome to Ark 65's Digital Realm 🌌
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&hide=html,css&theme=radical)](https://github.com/ark-65)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Code+Sorcerer+%F0%9F%94%AE+%7C+DevWizard+Level+99;Building+Digital+Wonders+%E2%9C%A8;Taming+Code+Dragons+%F0%9F%90%89)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## 🚀 About Me
+
+```typescript
+const ark65 = {
+    role: "Full Stack Code Sorcerer 🔮",
+    location: "The Cloud ☁️",
+    organization: "Founder of @zhongmiao-org 🏛️",
+    arsenal: {
+        frontend: ["Angular", "Vue", "React", "TypeScript"],
+        backend: ["Java", "Node.js", "Spring Boot"],
+        magic: ["HTML5", "CSS3", "JavaScript ES6+"],
+        tools: ["Git", "Docker", "AWS"]
+    },
+    currentQuest: "Building castles in the cloud ⛰️",
+    battleCry: "By the power of git push, bugs be gone! 💥",
+    petDragon: "Bugbane 🐉🛡️",
+    hobby: "Jamming to HTML Harmony & CSS Serenade 🎸"
+};
+```
+
+<div align="center">
+
+## 💻 Tech Stack & Arsenal
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+## 🏛️ Open Source Organization
+
+<p align="center">
+  <a href="https://github.com/zhongmiao-org">
+    <img src="https://img.shields.io/badge/🏛️_Founder-@zhongmiao--org-00F7F7?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+### 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/zhongmiao-org/ngx-puzzle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=ngx-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" />
+  </a>
+  <a href="https://github.com/zhongmiao-org/intercept-wave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zhongmiao-org/intercept-wave-vscode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave-vscode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+## 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="48%" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ark-65&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ark-65/ark-65/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ark-65/ark-65/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ark-65/ark-65/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 📈 Profile Views & Followers
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ark-65&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ark-65?label=Followers&style=for-the-badge&color=00F7F7" alt="Followers" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ark-65">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+</p>
+
+</div>
 

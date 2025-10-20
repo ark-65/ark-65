@@ -77,13 +77,16 @@ const ark65 = {
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="100%" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -113,11 +116,11 @@ const ark65 = {
   <a href="https://github.com/ark-65">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:liuwufangzhou@gmail.com">
+    <img src="https://img.shields.io/badge/Email_(Global)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:liuwufangzhou@vip.qq.com">
+    <img src="https://img.shields.io/badge/Email_(China)-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
   </a>
 </p>
 

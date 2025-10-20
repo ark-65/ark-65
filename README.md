@@ -65,6 +65,9 @@ const ark65 = {
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=ngx-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" alt="ngx-puzzle" />
     </picture>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/zhongmiao-org/intercept-wave">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
@@ -72,9 +75,6 @@ const ark65 = {
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" alt="intercept-wave" />
     </picture>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/zhongmiao-org/intercept-wave-vscode">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=zhongmiao-org&repo=intercept-wave-vscode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
@@ -83,6 +83,7 @@ const ark65 = {
     </picture>
   </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 

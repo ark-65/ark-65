@@ -91,6 +91,14 @@ const ark65 = {
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=default&hide_border=true&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" width="41%" alt="Top Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=default&hide_border=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=ark-65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub Stats" />
@@ -102,13 +110,6 @@ const ark65 = {
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=default&hide_border=true&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&hide=html,css&count_private=true&include_all_commits=true&langs_count=8" width="41%" alt="Top Languages" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>

@@ -1,0 +1,100 @@
+import os, re, json, hashlib
+from datetime import datetime, timezone
+
+try:
+    from zoneinfo import ZoneInfo
+except Exception:
+    ZoneInfo = None
+
+from urllib import request, parse
+
+SIGNS = [
+    ('aries', '白羊座', '♈'), ('taurus', '金牛座', '♉'), ('gemini', '双子座', '♊'),
+    ('cancer', '巨蟹座', '♋'), ('leo', '狮子座', '♌'), ('virgo', '处女座', '♍'),
+    ('libra', '天秤座', '♎'), ('scorpio', '天蝎座', '♏'), ('sagittarius', '射手座', '♐'),
+    ('capricorn', '摩羯座', '♑'), ('aquarius', '水瓶座', '♒'), ('pisces', '双鱼座', '♓')
+]
+
+TIP_BUCKET = [
+    '把注意力放在重要的人和事上',
+    '试着早睡早起，效率更高',
+    '大胆一点，会有惊喜发生',
+    '别急于求成，稳扎稳打',
+    '适合整理收纳与复盘思考',
+    '多倾听，少争辩，事半功倍',
+    '克制情绪，保持耐心',
+    '尝试做一点运动，焕新状态',
+    '今日适合学习和吸收新知',
+    '给自己一个小目标并完成它',
+    '与老朋友联络会带来好运',
+    '少刷手机，专注当下',
+    '主动表达想法，有人会响应',
+    '避免冲动消费，理性一点',
+    '把复杂问题拆解成小步',
+    '做个小小的善举，运势+1',
+    '清晰边界，拒绝无效内耗',
+    '记录灵感，立刻行动一个',
+    '保持好奇，发问与探索',
+    '拥抱变化，相信直觉'
+]
+
+def fallback_tip(sign_en: str, date_key: str) -> str:
+    s = f"{sign_en}:{date_key}".encode('utf-8')
+    idx = int(hashlib.sha256(s).hexdigest(), 16) % len(TIP_BUCKET)
+    return TIP_BUCKET[idx]
+
+def fetch_tip(sign_en: str, date_key: str):
+    url = f"https://aztro.sameerkumar.website/?sign={parse.quote(sign_en)}&day=today"
+    try:
+        req = request.Request(url, method='POST', data=b'')
+        with request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+        desc = (data.get('description') or '').strip()
+        if not desc:
+            raise ValueError('empty description')
+        tip = desc.split('.') [0].split('。')[0].strip()
+        tip = (tip[:80] + '…') if len(tip) > 80 else tip
+        return tip
+    except Exception:
+        return fallback_tip(sign_en, date_key)
+
+def build_section():
+    tz = os.getenv('HORO_TZ', '').strip() or 'Asia/Shanghai'
+    tzname = tz
+    try:
+        z = ZoneInfo(tzname) if ZoneInfo else None
+    except Exception:
+        z = None
+    now_dt = datetime.now(z if z else timezone.utc)
+    date_str = now_dt.strftime('%Y-%m-%d')
+    date_key = now_dt.strftime('%Y%m%d')
+
+    lines = []
+    lines.append(f"## 🔮 Daily Horoscope Tips • {date_str} ({tzname})")
+    for en, zh, sym in SIGNS:
+        tip = fetch_tip(en, date_key)
+        lines.append(f"- {sym} {zh} {en.title()}: {tip}")
+    return "\n".join(lines) + "\n"
+
+start = '<!-- DAILY-UPDATE:START -->'
+end = '<!-- DAILY-UPDATE:END -->'
+section = build_section()
+new_block = f"{start}\n{section}{end}"
+
+path = 'README.md'
+with open(path, 'r', encoding='utf-8') as f:
+    content = f.read()
+
+if start in content and end in content:
+    pattern = re.compile(r"<!-- DAILY-UPDATE:START -->(.|\n)*?<!-- DAILY-UPDATE:END -->", re.M)
+    updated = pattern.sub(new_block, content)
+else:
+    updated = content.rstrip() + "\n\n" + new_block + "\n"
+
+if updated != content:
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(updated)
+    print('README updated')
+else:
+    print('No change in README')
+

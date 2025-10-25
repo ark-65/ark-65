@@ -52,18 +52,18 @@ const ark65 = {
 <!-- DAILY-UPDATE:START -->
 <p align="center">
 <strong>🔮 Daily Horoscope Tips • 2025-10-25 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 少刷手机，专注当下<br/>
-♉ 金牛座 Taurus: 尝试做一点运动，焕新状态<br/>
-♊ 双子座 Gemini: 尝试做一点运动，焕新状态<br/>
-♋ 巨蟹座 Cancer: 避免冲动消费，理性一点<br/>
-♌ 狮子座 Leo: 尝试做一点运动，焕新状态<br/>
-♍ 处女座 Virgo: 把注意力放在重要的人和事上<br/>
-♎ 天秤座 Libra: 主动表达想法，有人会响应<br/>
-♏ 天蝎座 Scorpio: 保持好奇，发问与探索<br/>
-♐ 射手座 Sagittarius: 拥抱变化，相信直觉<br/>
-♑ 摩羯座 Capricorn: 克制情绪，保持耐心<br/>
-♒ 水瓶座 Aquarius: 试着早睡早起，效率更高<br/>
-♓ 双鱼座 Pisces: 清晰边界，拒绝无效内耗<br/>
+♈ 白羊座 Aries: 把手机静音 30 分钟<br/>
+♉ 金牛座 Taurus: 对重要任务设置时间块<br/>
+♊ 双子座 Gemini: 写下今天最开心的瞬间<br/>
+♋ 巨蟹座 Cancer: 专注过程，不执着结果<br/>
+♌ 狮子座 Leo: 提前十分钟出发<br/>
+♍ 处女座 Virgo: 适当午休，恢复精力<br/>
+♎ 天秤座 Libra: 拥抱随机性与小惊喜<br/>
+♏ 天蝎座 Scorpio: 把目标说给靠谱的人听<br/>
+♐ 射手座 Sagittarius: 启动而非等待完美<br/>
+♑ 摩羯座 Capricorn: 对自己宽容，对目标坚定<br/>
+♒ 水瓶座 Aquarius: 拆掉心理墙，迈出一步<br/>
+♓ 双鱼座 Pisces: 完成比完美更重要<br/>
 </p>
 <!-- DAILY-UPDATE:END -->
 

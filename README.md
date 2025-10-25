@@ -47,6 +47,12 @@ const ark65 = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
+## 🔮 Daily Brief
+
+<!-- DAILY-UPDATE:START -->
+Daily zodiac tips will appear here once CI runs.
+<!-- DAILY-UPDATE:END -->
+
 ## 🏛️ Open Source Organization
 
 <p align="center">
@@ -165,4 +171,3 @@ const ark65 = {
 </p>
 
 </div>
-

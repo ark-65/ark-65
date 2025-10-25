@@ -50,7 +50,19 @@ const ark65 = {
 ## 🔮 Daily Brief
 
 <!-- DAILY-UPDATE:START -->
-Daily zodiac tips will appear here once CI runs.
+## 🔮 Daily Horoscope Tips • 2025-10-25 (Asia/Shanghai)
+- ♈ 白羊座 Aries: 少刷手机，专注当下
+- ♉ 金牛座 Taurus: 尝试做一点运动，焕新状态
+- ♊ 双子座 Gemini: 尝试做一点运动，焕新状态
+- ♋ 巨蟹座 Cancer: 避免冲动消费，理性一点
+- ♌ 狮子座 Leo: 尝试做一点运动，焕新状态
+- ♍ 处女座 Virgo: 把注意力放在重要的人和事上
+- ♎ 天秤座 Libra: 主动表达想法，有人会响应
+- ♏ 天蝎座 Scorpio: 保持好奇，发问与探索
+- ♐ 射手座 Sagittarius: 拥抱变化，相信直觉
+- ♑ 摩羯座 Capricorn: 克制情绪，保持耐心
+- ♒ 水瓶座 Aquarius: 试着早睡早起，效率更高
+- ♓ 双鱼座 Pisces: 清晰边界，拒绝无效内耗
 <!-- DAILY-UPDATE:END -->
 
 ## 🏛️ Open Source Organization

@@ -90,6 +90,11 @@ def build_section():
         tip = fetch_tip(en, i, day_of_year)
         item = f"{sym} {zh} {en.title()}: {tip}"
         lines.append(f"{html.escape(item)}<br/>")
+    # 今日幸运星座（按天轮换，稳定且每天不同）
+    lucky_idx = day_of_year % len(SIGNS)
+    l_en, l_zh, l_sym = SIGNS[lucky_idx]
+    lucky_line = f"✨ 今日幸运星座：{l_sym} {l_zh} {l_en.title()}"
+    lines.append(f"<br/>{html.escape(lucky_line)}")
     lines.append("</p>")
     return "\n".join(lines) + "\n"
 

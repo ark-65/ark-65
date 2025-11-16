@@ -51,20 +51,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2025-11-15 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 专注过程，不执着结果<br/>
-♉ 金牛座 Taurus: 提前十分钟出发<br/>
-♊ 双子座 Gemini: 适当午休，恢复精力<br/>
-♋ 巨蟹座 Cancer: 拥抱随机性与小惊喜<br/>
-♌ 狮子座 Leo: 把目标说给靠谱的人听<br/>
-♍ 处女座 Virgo: 启动而非等待完美<br/>
-♎ 天秤座 Libra: 对自己宽容，对目标坚定<br/>
-♏ 天蝎座 Scorpio: 拆掉心理墙，迈出一步<br/>
-♐ 射手座 Sagittarius: 完成比完美更重要<br/>
-♑ 摩羯座 Capricorn: 主动建立正向循环<br/>
-♒ 水瓶座 Aquarius: 多倾听，少争辩，事半功倍<br/>
-♓ 双鱼座 Pisces: 主动表达想法，有人会响应<br/>
-<br/>✨ 今日幸运星座：♏ 天蝎座 Scorpio
+<strong>🔮 Daily Horoscope Tips • 2025-11-16 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 给自己一点奖励<br/>
+♉ 金牛座 Taurus: 主动请求反馈<br/>
+♊ 双子座 Gemini: 不和过去较劲，向前看<br/>
+♋ 巨蟹座 Cancer: 主动提出一个改进建议<br/>
+♌ 狮子座 Leo: 用问题引导思考<br/>
+♍ 处女座 Virgo: 选择最小可行步骤<br/>
+♎ 天秤座 Libra: 用灵活替代僵化<br/>
+♏ 天蝎座 Scorpio: 善待身体，早睡早起<br/>
+♐ 射手座 Sagittarius: 保持谦逊与锋芒<br/>
+♑ 摩羯座 Capricorn: 保持节奏，不急不徐<br/>
+♒ 水瓶座 Aquarius: 克制情绪，保持耐心<br/>
+♓ 双鱼座 Pisces: 避免冲动消费，理性一点<br/>
+<br/>✨ 今日幸运星座：♐ 射手座 Sagittarius
 </p>
 <!-- DAILY-UPDATE:END -->
 

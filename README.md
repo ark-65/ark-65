@@ -51,20 +51,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2025-11-21 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 优化一次重复性的任务<br/>
-♉ 金牛座 Taurus: 减少糖分与熬夜<br/>
-♊ 双子座 Gemini: 给自己一点安静<br/>
-♋ 巨蟹座 Cancer: 打磨一个小作品<br/>
-♌ 狮子座 Leo: 理性看待得失<br/>
-♍ 处女座 Virgo: 专注当下的一小步<br/>
-♎ 天秤座 Libra: 用心倾听真实需求<br/>
-♏ 天蝎座 Scorpio: 追踪一次微小的进步<br/>
-♐ 射手座 Sagittarius: 用复盘取代懊悔<br/>
-♑ 摩羯座 Capricorn: 适合整理收纳与复盘思考<br/>
-♒ 水瓶座 Aquarius: 少刷手机，专注当下<br/>
-♓ 双鱼座 Pisces: 保持好奇，发问与探索<br/>
-<br/>✨ 今日幸运星座：♉ 金牛座 Taurus
+<strong>🔮 Daily Horoscope Tips • 2025-11-22 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 提前十分钟出发<br/>
+♉ 金牛座 Taurus: 适当午休，恢复精力<br/>
+♊ 双子座 Gemini: 拥抱随机性与小惊喜<br/>
+♋ 巨蟹座 Cancer: 把目标说给靠谱的人听<br/>
+♌ 狮子座 Leo: 启动而非等待完美<br/>
+♍ 处女座 Virgo: 对自己宽容，对目标坚定<br/>
+♎ 天秤座 Libra: 拆掉心理墙，迈出一步<br/>
+♏ 天蝎座 Scorpio: 完成比完美更重要<br/>
+♐ 射手座 Sagittarius: 主动建立正向循环<br/>
+♑ 摩羯座 Capricorn: 多倾听，少争辩，事半功倍<br/>
+♒ 水瓶座 Aquarius: 主动表达想法，有人会响应<br/>
+♓ 双鱼座 Pisces: 拥抱变化，相信直觉<br/>
+<br/>✨ 今日幸运星座：♊ 双子座 Gemini
 </p>
 <!-- DAILY-UPDATE:END -->
 

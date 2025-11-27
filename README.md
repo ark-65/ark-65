@@ -51,20 +51,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2025-11-26 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 把能两分钟完成的事立刻做<br/>
-♉ 金牛座 Taurus: 想一想“真正重要的是什么”<br/>
-♊ 双子座 Gemini: 关注健康，适量运动<br/>
-♋ 巨蟹座 Cancer: 尝试冥想三分钟<br/>
-♌ 狮子座 Leo: 把任务排优先级<br/>
-♍ 处女座 Virgo: 今天对自己说“干得好”<br/>
-♎ 天秤座 Libra: 做个靠谱的人，按时交付<br/>
-♏ 天蝎座 Scorpio: 把目标写在显眼处<br/>
-♐ 射手座 Sagittarius: 大胆一点，会有惊喜发生<br/>
-♑ 摩羯座 Capricorn: 给自己一个小目标并完成它<br/>
-♒ 水瓶座 Aquarius: 清晰边界，拒绝无效内耗<br/>
-♓ 双鱼座 Pisces: 尝试番茄工作法<br/>
-<br/>✨ 今日幸运星座：♎ 天秤座 Libra
+<strong>🔮 Daily Horoscope Tips • 2025-11-27 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 今天温柔地对自己<br/>
+♉ 金牛座 Taurus: 把承诺写下来<br/>
+♊ 双子座 Gemini: 学习一个键盘快捷键<br/>
+♋ 巨蟹座 Cancer: 今天适合整理账目<br/>
+♌ 狮子座 Leo: 删掉一个无效订阅<br/>
+♍ 处女座 Virgo: 避免过度承诺<br/>
+♎ 天秤座 Libra: 给出具体且可执行的建议<br/>
+♏ 天蝎座 Scorpio: 减少内耗，保护专注力<br/>
+♐ 射手座 Sagittarius: 别急于求成，稳扎稳打<br/>
+♑ 摩羯座 Capricorn: 与老朋友联络会带来好运<br/>
+♒ 水瓶座 Aquarius: 记录灵感，立刻行动一个<br/>
+♓ 双鱼座 Pisces: 和家人好好吃顿饭<br/>
+<br/>✨ 今日幸运星座：♏ 天蝎座 Scorpio
 </p>
 <!-- DAILY-UPDATE:END -->
 

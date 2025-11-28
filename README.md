@@ -51,20 +51,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2025-11-27 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 今天温柔地对自己<br/>
-♉ 金牛座 Taurus: 把承诺写下来<br/>
-♊ 双子座 Gemini: 学习一个键盘快捷键<br/>
-♋ 巨蟹座 Cancer: 今天适合整理账目<br/>
-♌ 狮子座 Leo: 删掉一个无效订阅<br/>
-♍ 处女座 Virgo: 避免过度承诺<br/>
-♎ 天秤座 Libra: 给出具体且可执行的建议<br/>
-♏ 天蝎座 Scorpio: 减少内耗，保护专注力<br/>
-♐ 射手座 Sagittarius: 别急于求成，稳扎稳打<br/>
-♑ 摩羯座 Capricorn: 与老朋友联络会带来好运<br/>
-♒ 水瓶座 Aquarius: 记录灵感，立刻行动一个<br/>
-♓ 双鱼座 Pisces: 和家人好好吃顿饭<br/>
-<br/>✨ 今日幸运星座：♏ 天蝎座 Scorpio
+<strong>🔮 Daily Horoscope Tips • 2025-11-28 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 减少糖分与熬夜<br/>
+♉ 金牛座 Taurus: 给自己一点安静<br/>
+♊ 双子座 Gemini: 打磨一个小作品<br/>
+♋ 巨蟹座 Cancer: 理性看待得失<br/>
+♌ 狮子座 Leo: 专注当下的一小步<br/>
+♍ 处女座 Virgo: 用心倾听真实需求<br/>
+♎ 天秤座 Libra: 追踪一次微小的进步<br/>
+♏ 天蝎座 Scorpio: 用复盘取代懊悔<br/>
+♐ 射手座 Sagittarius: 适合整理收纳与复盘思考<br/>
+♑ 摩羯座 Capricorn: 少刷手机，专注当下<br/>
+♒ 水瓶座 Aquarius: 保持好奇，发问与探索<br/>
+♓ 双鱼座 Pisces: 整理邮件与消息收件箱<br/>
+<br/>✨ 今日幸运星座：♐ 射手座 Sagittarius
 </p>
 <!-- DAILY-UPDATE:END -->
 

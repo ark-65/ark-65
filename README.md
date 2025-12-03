@@ -135,13 +135,19 @@ const ark65 = {
 </p>
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=github-compact&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="100%" alt="Activity Graph" />
-  </picture>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <picture>)
+
+[//]: # (    <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />)
+
+[//]: # (    <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=github-compact&hide_border=true" />)
+
+[//]: # (    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="100%" alt="Activity Graph" />)
+
+[//]: # (  </picture>)
+
+[//]: # (</p>)
 
 ## 🏆 GitHub Trophies
 

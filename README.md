@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2025-12-16 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 表达清楚边界与预期<br/>
-♉ 金牛座 Taurus: 保持专业与善意<br/>
-♊ 双子座 Gemini: 保持信息整洁，减少噪音<br/>
-♋ 巨蟹座 Cancer: 让环境为你服务<br/>
-♌ 狮子座 Leo: 一次只做一件事<br/>
-♍ 处女座 Virgo: 试着早睡早起，效率更高<br/>
-♎ 天秤座 Libra: 今日适合学习和吸收新知<br/>
-♏ 天蝎座 Scorpio: 做个小小的善举，运势+1<br/>
-♐ 射手座 Sagittarius: 把待办清单精简到三件<br/>
-♑ 摩羯座 Capricorn: 给未来的自己写一封信<br/>
-♒ 水瓶座 Aquarius: 给同事或朋友一句感谢<br/>
-♓ 双鱼座 Pisces: 注意用眼健康<br/>
-<br/>✨ 今日幸运星座：♊ 双子座 Gemini
+<strong>🔮 Daily Horoscope Tips • 2025-12-17 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 尝试冥想三分钟<br/>
+♉ 金牛座 Taurus: 把任务排优先级<br/>
+♊ 双子座 Gemini: 今天对自己说“干得好”<br/>
+♋ 巨蟹座 Cancer: 做个靠谱的人，按时交付<br/>
+♌ 狮子座 Leo: 把目标写在显眼处<br/>
+♍ 处女座 Virgo: 大胆一点，会有惊喜发生<br/>
+♎ 天秤座 Libra: 给自己一个小目标并完成它<br/>
+♏ 天蝎座 Scorpio: 清晰边界，拒绝无效内耗<br/>
+♐ 射手座 Sagittarius: 尝试番茄工作法<br/>
+♑ 摩羯座 Capricorn: 喝足够的水，保持清醒<br/>
+♒ 水瓶座 Aquarius: 优化一个重复流程<br/>
+♓ 双鱼座 Pisces: 今天早点结束工作<br/>
+<br/>✨ 今日幸运星座：♋ 巨蟹座 Cancer
 </p>
 <!-- DAILY-UPDATE:END -->
 

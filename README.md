@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2025-12-19 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 理性看待得失<br/>
-♉ 金牛座 Taurus: 专注当下的一小步<br/>
-♊ 双子座 Gemini: 用心倾听真实需求<br/>
-♋ 巨蟹座 Cancer: 追踪一次微小的进步<br/>
-♌ 狮子座 Leo: 用复盘取代懊悔<br/>
-♍ 处女座 Virgo: 适合整理收纳与复盘思考<br/>
-♎ 天秤座 Libra: 少刷手机，专注当下<br/>
-♏ 天蝎座 Scorpio: 保持好奇，发问与探索<br/>
-♐ 射手座 Sagittarius: 整理邮件与消息收件箱<br/>
-♑ 摩羯座 Capricorn: 不要拖延，从最难的开始<br/>
-♒ 水瓶座 Aquarius: 接受不完美，继续前进<br/>
-♓ 双鱼座 Pisces: 复习旧笔记，温故知新<br/>
-<br/>✨ 今日幸运星座：♍ 处女座 Virgo
+<strong>🔮 Daily Horoscope Tips • 2025-12-20 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 启动而非等待完美<br/>
+♉ 金牛座 Taurus: 对自己宽容，对目标坚定<br/>
+♊ 双子座 Gemini: 拆掉心理墙，迈出一步<br/>
+♋ 巨蟹座 Cancer: 完成比完美更重要<br/>
+♌ 狮子座 Leo: 主动建立正向循环<br/>
+♍ 处女座 Virgo: 多倾听，少争辩，事半功倍<br/>
+♎ 天秤座 Libra: 主动表达想法，有人会响应<br/>
+♏ 天蝎座 Scorpio: 拥抱变化，相信直觉<br/>
+♐ 射手座 Sagittarius: 鼓励身边的人，也鼓励自己<br/>
+♑ 摩羯座 Capricorn: 完成一件长期回避的小事<br/>
+♒ 水瓶座 Aquarius: 用数据说话，用事实决策<br/>
+♓ 双鱼座 Pisces: 列出三件值得感恩的事<br/>
+<br/>✨ 今日幸运星座：♎ 天秤座 Libra
 </p>
 <!-- DAILY-UPDATE:END -->
 

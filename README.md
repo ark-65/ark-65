@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2025-12-22 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 感谢当下，珍惜眼前人<br/>
-♉ 金牛座 Taurus: 别怕求助，协作更强<br/>
-♊ 双子座 Gemini: 练习清晰表达<br/>
-♋ 巨蟹座 Cancer: 慢就是稳，稳就是快<br/>
-♌ 狮子座 Leo: 把注意力放在重要的人和事上<br/>
-♍ 处女座 Virgo: 尝试做一点运动，焕新状态<br/>
-♎ 天秤座 Libra: 把复杂问题拆解成小步<br/>
-♏ 天蝎座 Scorpio: 复盘最近一周的收获<br/>
-♐ 射手座 Sagittarius: 减少抱怨，多做一点<br/>
-♑ 摩羯座 Capricorn: 阅读 10 页书<br/>
-♒ 水瓶座 Aquarius: 把手机静音 30 分钟<br/>
-♓ 双鱼座 Pisces: 对重要任务设置时间块<br/>
-<br/>✨ 今日幸运星座：♐ 射手座 Sagittarius
+<strong>🔮 Daily Horoscope Tips • 2025-12-23 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 保持专业与善意<br/>
+♉ 金牛座 Taurus: 保持信息整洁，减少噪音<br/>
+♊ 双子座 Gemini: 让环境为你服务<br/>
+♋ 巨蟹座 Cancer: 一次只做一件事<br/>
+♌ 狮子座 Leo: 试着早睡早起，效率更高<br/>
+♍ 处女座 Virgo: 今日适合学习和吸收新知<br/>
+♎ 天秤座 Libra: 做个小小的善举，运势+1<br/>
+♏ 天蝎座 Scorpio: 把待办清单精简到三件<br/>
+♐ 射手座 Sagittarius: 给未来的自己写一封信<br/>
+♑ 摩羯座 Capricorn: 给同事或朋友一句感谢<br/>
+♒ 水瓶座 Aquarius: 注意用眼健康<br/>
+♓ 双鱼座 Pisces: 提前准备明天的待办<br/>
+<br/>✨ 今日幸运星座：♑ 摩羯座 Capricorn
 </p>
 <!-- DAILY-UPDATE:END -->
 

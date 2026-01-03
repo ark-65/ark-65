@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2026-01-02 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 大胆一点，会有惊喜发生<br/>
-♉ 金牛座 Taurus: 给自己一个小目标并完成它<br/>
-♊ 双子座 Gemini: 清晰边界，拒绝无效内耗<br/>
-♋ 巨蟹座 Cancer: 尝试番茄工作法<br/>
-♌ 狮子座 Leo: 喝足够的水，保持清醒<br/>
-♍ 处女座 Virgo: 优化一个重复流程<br/>
-♎ 天秤座 Libra: 今天早点结束工作<br/>
-♏ 天蝎座 Scorpio: 清理桌面，重启状态<br/>
-♐ 射手座 Sagittarius: 和志同道合的人交流<br/>
-♑ 摩羯座 Capricorn: 把问题换个角度看<br/>
-♒ 水瓶座 Aquarius: 把复杂事拆成清晰清单<br/>
-♓ 双鱼座 Pisces: 用清单可视化进展<br/>
-<br/>✨ 今日幸运星座：♊ 双子座 Gemini
+<strong>🔮 Daily Horoscope Tips • 2026-01-03 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 别急于求成，稳扎稳打<br/>
+♉ 金牛座 Taurus: 与老朋友联络会带来好运<br/>
+♊ 双子座 Gemini: 记录灵感，立刻行动一个<br/>
+♋ 巨蟹座 Cancer: 和家人好好吃顿饭<br/>
+♌ 狮子座 Leo: 站起来伸展 5 分钟<br/>
+♍ 处女座 Virgo: 减少无意义的对比<br/>
+♎ 天秤座 Libra: 设定边界，拒绝额外负担<br/>
+♏ 天蝎座 Scorpio: 留出独处的时间<br/>
+♐ 射手座 Sagittarius: 保持耐心，等待发芽<br/>
+♑ 摩羯座 Capricorn: 从错误中提取经验<br/>
+♒ 水瓶座 Aquarius: 试试晨间或晚间例会<br/>
+♓ 双鱼座 Pisces: 与其担心不如行动<br/>
+<br/>✨ 今日幸运星座：♋ 巨蟹座 Cancer
 </p>
 <!-- DAILY-UPDATE:END -->
 

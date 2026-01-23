@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2026-01-22 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 把待办清单精简到三件<br/>
-♉ 金牛座 Taurus: 给未来的自己写一封信<br/>
-♊ 双子座 Gemini: 给同事或朋友一句感谢<br/>
-♋ 巨蟹座 Cancer: 注意用眼健康<br/>
-♌ 狮子座 Leo: 提前准备明天的待办<br/>
-♍ 处女座 Virgo: 回顾目标与进度<br/>
-♎ 天秤座 Libra: 给自己一点奖励<br/>
-♏ 天蝎座 Scorpio: 主动请求反馈<br/>
-♐ 射手座 Sagittarius: 不和过去较劲，向前看<br/>
-♑ 摩羯座 Capricorn: 主动提出一个改进建议<br/>
-♒ 水瓶座 Aquarius: 用问题引导思考<br/>
-♓ 双鱼座 Pisces: 选择最小可行步骤<br/>
-<br/>✨ 今日幸运星座：♒ 水瓶座 Aquarius
+<strong>🔮 Daily Horoscope Tips • 2026-01-23 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 尝试番茄工作法<br/>
+♉ 金牛座 Taurus: 喝足够的水，保持清醒<br/>
+♊ 双子座 Gemini: 优化一个重复流程<br/>
+♋ 巨蟹座 Cancer: 今天早点结束工作<br/>
+♌ 狮子座 Leo: 清理桌面，重启状态<br/>
+♍ 处女座 Virgo: 和志同道合的人交流<br/>
+♎ 天秤座 Libra: 把问题换个角度看<br/>
+♏ 天蝎座 Scorpio: 把复杂事拆成清晰清单<br/>
+♐ 射手座 Sagittarius: 用清单可视化进展<br/>
+♑ 摩羯座 Capricorn: 备份重要资料<br/>
+♒ 水瓶座 Aquarius: 复盘一次沟通是否清晰<br/>
+♓ 双鱼座 Pisces: 感谢当下，珍惜眼前人<br/>
+<br/>✨ 今日幸运星座：♓ 双鱼座 Pisces
 </p>
 <!-- DAILY-UPDATE:END -->
 

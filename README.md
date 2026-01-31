@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2026-01-30 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 喝足够的水，保持清醒<br/>
-♉ 金牛座 Taurus: 优化一个重复流程<br/>
-♊ 双子座 Gemini: 今天早点结束工作<br/>
-♋ 巨蟹座 Cancer: 清理桌面，重启状态<br/>
-♌ 狮子座 Leo: 和志同道合的人交流<br/>
-♍ 处女座 Virgo: 把问题换个角度看<br/>
-♎ 天秤座 Libra: 把复杂事拆成清晰清单<br/>
-♏ 天蝎座 Scorpio: 用清单可视化进展<br/>
-♐ 射手座 Sagittarius: 备份重要资料<br/>
-♑ 摩羯座 Capricorn: 复盘一次沟通是否清晰<br/>
-♒ 水瓶座 Aquarius: 感谢当下，珍惜眼前人<br/>
-♓ 双鱼座 Pisces: 别怕求助，协作更强<br/>
-<br/>✨ 今日幸运星座：♎ 天秤座 Libra
+<strong>🔮 Daily Horoscope Tips • 2026-01-31 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 站起来伸展 5 分钟<br/>
+♉ 金牛座 Taurus: 减少无意义的对比<br/>
+♊ 双子座 Gemini: 设定边界，拒绝额外负担<br/>
+♋ 巨蟹座 Cancer: 留出独处的时间<br/>
+♌ 狮子座 Leo: 保持耐心，等待发芽<br/>
+♍ 处女座 Virgo: 从错误中提取经验<br/>
+♎ 天秤座 Libra: 试试晨间或晚间例会<br/>
+♏ 天蝎座 Scorpio: 与其担心不如行动<br/>
+♐ 射手座 Sagittarius: 学会说“不”也说“好”<br/>
+♑ 摩羯座 Capricorn: 表达清楚边界与预期<br/>
+♒ 水瓶座 Aquarius: 保持专业与善意<br/>
+♓ 双鱼座 Pisces: 保持信息整洁，减少噪音<br/>
+<br/>✨ 今日幸运星座：♏ 天蝎座 Scorpio
 </p>
 <!-- DAILY-UPDATE:END -->
 

@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2026-02-04 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 阅读 10 页书<br/>
-♉ 金牛座 Taurus: 把手机静音 30 分钟<br/>
-♊ 双子座 Gemini: 对重要任务设置时间块<br/>
-♋ 巨蟹座 Cancer: 写下今天最开心的瞬间<br/>
-♌ 狮子座 Leo: 专注过程，不执着结果<br/>
-♍ 处女座 Virgo: 提前十分钟出发<br/>
-♎ 天秤座 Libra: 适当午休，恢复精力<br/>
-♏ 天蝎座 Scorpio: 拥抱随机性与小惊喜<br/>
-♐ 射手座 Sagittarius: 把目标说给靠谱的人听<br/>
-♑ 摩羯座 Capricorn: 启动而非等待完美<br/>
-♒ 水瓶座 Aquarius: 对自己宽容，对目标坚定<br/>
-♓ 双鱼座 Pisces: 拆掉心理墙，迈出一步<br/>
-<br/>✨ 今日幸运星座：♓ 双鱼座 Pisces
+<strong>🔮 Daily Horoscope Tips • 2026-02-05 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 给同事或朋友一句感谢<br/>
+♉ 金牛座 Taurus: 注意用眼健康<br/>
+♊ 双子座 Gemini: 提前准备明天的待办<br/>
+♋ 巨蟹座 Cancer: 回顾目标与进度<br/>
+♌ 狮子座 Leo: 给自己一点奖励<br/>
+♍ 处女座 Virgo: 主动请求反馈<br/>
+♎ 天秤座 Libra: 不和过去较劲，向前看<br/>
+♏ 天蝎座 Scorpio: 主动提出一个改进建议<br/>
+♐ 射手座 Sagittarius: 用问题引导思考<br/>
+♑ 摩羯座 Capricorn: 选择最小可行步骤<br/>
+♒ 水瓶座 Aquarius: 用灵活替代僵化<br/>
+♓ 双鱼座 Pisces: 善待身体，早睡早起<br/>
+<br/>✨ 今日幸运星座：♈ 白羊座 Aries
 </p>
 <!-- DAILY-UPDATE:END -->
 

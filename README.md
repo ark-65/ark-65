@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2026-04-21 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 用心倾听真实需求<br/>
-♉ 金牛座 Taurus: 追踪一次微小的进步<br/>
-♊ 双子座 Gemini: 用复盘取代懊悔<br/>
-♋ 巨蟹座 Cancer: 适合整理收纳与复盘思考<br/>
-♌ 狮子座 Leo: 少刷手机，专注当下<br/>
-♍ 处女座 Virgo: 保持好奇，发问与探索<br/>
-♎ 天秤座 Libra: 整理邮件与消息收件箱<br/>
-♏ 天蝎座 Scorpio: 不要拖延，从最难的开始<br/>
-♐ 射手座 Sagittarius: 接受不完美，继续前进<br/>
-♑ 摩羯座 Capricorn: 复习旧笔记，温故知新<br/>
-♒ 水瓶座 Aquarius: 把想法画成草图<br/>
-♓ 双鱼座 Pisces: 今天适合做减法<br/>
-<br/>✨ 今日幸运星座：♋ 巨蟹座 Cancer
+<strong>🔮 Daily Horoscope Tips • 2026-04-22 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 拆掉心理墙，迈出一步<br/>
+♉ 金牛座 Taurus: 完成比完美更重要<br/>
+♊ 双子座 Gemini: 主动建立正向循环<br/>
+♋ 巨蟹座 Cancer: 多倾听，少争辩，事半功倍<br/>
+♌ 狮子座 Leo: 主动表达想法，有人会响应<br/>
+♍ 处女座 Virgo: 拥抱变化，相信直觉<br/>
+♎ 天秤座 Libra: 鼓励身边的人，也鼓励自己<br/>
+♏ 天蝎座 Scorpio: 完成一件长期回避的小事<br/>
+♐ 射手座 Sagittarius: 用数据说话，用事实决策<br/>
+♑ 摩羯座 Capricorn: 列出三件值得感恩的事<br/>
+♒ 水瓶座 Aquarius: 进行一次思维导图<br/>
+♓ 双鱼座 Pisces: 把流程标准化并记录<br/>
+<br/>✨ 今日幸运星座：♌ 狮子座 Leo
 </p>
 <!-- DAILY-UPDATE:END -->
 

@@ -54,20 +54,20 @@ const ark65 = {
 
 <!-- DAILY-UPDATE:START -->
 <p align="center">
-<strong>🔮 Daily Horoscope Tips • 2026-04-24 (Asia/Shanghai)</strong><br/>
-♈ 白羊座 Aries: 练习清晰表达<br/>
-♉ 金牛座 Taurus: 慢就是稳，稳就是快<br/>
-♊ 双子座 Gemini: 把注意力放在重要的人和事上<br/>
-♋ 巨蟹座 Cancer: 尝试做一点运动，焕新状态<br/>
-♌ 狮子座 Leo: 把复杂问题拆解成小步<br/>
-♍ 处女座 Virgo: 复盘最近一周的收获<br/>
-♎ 天秤座 Libra: 减少抱怨，多做一点<br/>
-♏ 天蝎座 Scorpio: 阅读 10 页书<br/>
-♐ 射手座 Sagittarius: 把手机静音 30 分钟<br/>
-♑ 摩羯座 Capricorn: 对重要任务设置时间块<br/>
-♒ 水瓶座 Aquarius: 写下今天最开心的瞬间<br/>
-♓ 双鱼座 Pisces: 专注过程，不执着结果<br/>
-<br/>✨ 今日幸运星座：♎ 天秤座 Libra
+<strong>🔮 Daily Horoscope Tips • 2026-04-25 (Asia/Shanghai)</strong><br/>
+♈ 白羊座 Aries: 让环境为你服务<br/>
+♉ 金牛座 Taurus: 一次只做一件事<br/>
+♊ 双子座 Gemini: 试着早睡早起，效率更高<br/>
+♋ 巨蟹座 Cancer: 今日适合学习和吸收新知<br/>
+♌ 狮子座 Leo: 做个小小的善举，运势+1<br/>
+♍ 处女座 Virgo: 把待办清单精简到三件<br/>
+♎ 天秤座 Libra: 给未来的自己写一封信<br/>
+♏ 天蝎座 Scorpio: 给同事或朋友一句感谢<br/>
+♐ 射手座 Sagittarius: 注意用眼健康<br/>
+♑ 摩羯座 Capricorn: 提前准备明天的待办<br/>
+♒ 水瓶座 Aquarius: 回顾目标与进度<br/>
+♓ 双鱼座 Pisces: 给自己一点奖励<br/>
+<br/>✨ 今日幸运星座：♏ 天蝎座 Scorpio
 </p>
 <!-- DAILY-UPDATE:END -->
 

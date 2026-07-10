@@ -87,16 +87,28 @@ const ark65 = {
 
 <p align="center">
   <a href="https://github.com/zhongmiao-org/ngx-puzzle">
-    <img src="./assets/project-ngx-puzzle.svg" width="49%" alt="ngx-puzzle: Angular drag-and-drop dashboards" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/project-ngx-puzzle-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/project-ngx-puzzle-light.svg" />
+      <img src="./assets/cards/project-ngx-puzzle-light.svg" width="49%" alt="ngx-puzzle" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zhongmiao-org/intercept-wave">
-    <img src="./assets/project-intercept-wave.svg" width="49%" alt="intercept-wave: JetBrains proxy and request interception" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/project-intercept-wave-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/project-intercept-wave-light.svg" />
+      <img src="./assets/cards/project-intercept-wave-light.svg" width="49%" alt="intercept-wave" />
+    </picture>
   </a>
   <a href="https://github.com/zhongmiao-org/intercept-wave-vscode">
-    <img src="./assets/project-intercept-wave-vscode.svg" width="49%" alt="intercept-wave-vscode: VS Code proxy and request interception" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/project-intercept-wave-vscode-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/project-intercept-wave-vscode-light.svg" />
+      <img src="./assets/cards/project-intercept-wave-vscode-light.svg" width="49%" alt="intercept-wave-vscode" />
+    </picture>
   </a>
 </p>
 
@@ -107,17 +119,17 @@ const ark65 = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ark-65&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ark-65&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ark-65&theme=tokyonight" width="41%" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/top-languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/top-languages-light.svg" />
+    <img src="./assets/cards/top-languages-light.svg" width="41%" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ark-65&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ark-65&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ark-65&theme=tokyonight" width="49%" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/github-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/github-stats-light.svg" />
+    <img src="./assets/cards/github-stats-light.svg" width="49%" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ark-65&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />

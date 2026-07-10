@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="170" viewBox="0 0 430 170" role="img" aria-labelledby="title desc">
+  <title id="title">intercept-wave project card</title>
+  <desc id="desc">Static project card for intercept-wave, a JetBrains local development proxy and interception plugin.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#151f3b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#00f7f7"/>
+      <stop offset="0.5" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="430" height="170" rx="18" fill="url(#card)"/>
+  <rect x="1" y="1" width="428" height="168" rx="17" fill="none" stroke="#254a8a" stroke-width="2"/>
+  <rect x="0" y="0" width="430" height="5" rx="2.5" fill="url(#accent)"/>
+  <rect x="27" y="29" width="42" height="42" rx="10" fill="#171717" stroke="#00f7f7" stroke-width="2"/>
+  <path d="M38 49h20M48 39v20" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <text x="82" y="45" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">intercept-wave</text>
+  <text x="82" y="73" fill="#9be7ee" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">JetBrains proxy and request interception</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="28" y="106" width="82" height="30" rx="15" fill="#111827" stroke="#00f7f7" stroke-opacity="0.55"/>
+    <text x="52" y="126" fill="#ffffff">Kotlin</text>
+    <rect x="122" y="106" width="88" height="30" rx="15" fill="#111827" stroke="#00f7f7" stroke-opacity="0.55"/>
+    <text x="147" y="126" fill="#ffffff">6 stars</text>
+    <rect x="222" y="106" width="82" height="30" rx="15" fill="#111827" stroke="#00f7f7" stroke-opacity="0.55"/>
+    <text x="246" y="126" fill="#ffffff">1 fork</text>
+  </g>
+</svg>

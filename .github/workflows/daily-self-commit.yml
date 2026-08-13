@@ -27,23 +27,12 @@ jobs:
 
       - name: Configure Git author
         env:
-          FALLBACK_NAME: ${{ github.repository_owner }}
-          FALLBACK_EMAIL: ${{ github.repository_owner }}@users.noreply.github.com
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+          REPOSITORY_OWNER_ID: ${{ github.repository_owner_id }}
         run: |
           set -e
-          NAME="${{ secrets.COMMIT_AUTHOR_NAME }}"
-          EMAIL="${{ secrets.COMMIT_AUTHOR_EMAIL }}"
-          if [ -z "$NAME" ]; then
-            NAME="$(git log -n 1 --pretty=format:%an || true)"
-            [ -z "$NAME" ] && NAME="$FALLBACK_NAME"
-          fi
-          if [ -z "$EMAIL" ]; then
-            EMAIL="$(git log -n 1 --pretty=format:%ae || true)"
-            [ -z "$EMAIL" ] && EMAIL="$FALLBACK_EMAIL"
-          fi
-          echo "Using author: $NAME <$EMAIL>"
-          git config user.name "$NAME"
-          git config user.email "$EMAIL"
+          git config user.name "$REPOSITORY_OWNER"
+          git config user.email "${REPOSITORY_OWNER_ID}+${REPOSITORY_OWNER}@users.noreply.github.com"
 
       - name: Update README with zodiac tips
         env:

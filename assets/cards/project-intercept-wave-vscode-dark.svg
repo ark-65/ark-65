@@ -27,7 +27,8 @@
     }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2 }
+    .badge rect { opacity: 0.2; stroke: #FFFFFF }
+    .badge text { fill: #FFFFFF }
 
     .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF }
     .stagger {
@@ -40,6 +41,7 @@
       fill: #00F7F7;
       display: block;
     }
+
 
 
 
@@ -65,9 +67,15 @@
         </style>
 
 
+        <defs>
+
+
+        </defs>
+
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"

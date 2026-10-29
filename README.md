@@ -93,6 +93,13 @@ const ark65 = {
       <img src="./assets/cards/project-ngx-puzzle-light.svg" width="49%" alt="ngx-puzzle" />
     </picture>
   </a>
+  <a href="https://github.com/zhongmiao-org/mermaid-markdown-bridge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/project-mermaid-markdown-bridge-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/project-mermaid-markdown-bridge-light.svg" />
+      <img src="./assets/cards/project-mermaid-markdown-bridge-light.svg" width="49%" alt="Mermaid Markdown Bridge" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">

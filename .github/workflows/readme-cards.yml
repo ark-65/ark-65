@@ -39,6 +39,22 @@ jobs:
           path: assets/cards/project-ngx-puzzle-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Mermaid Markdown Bridge dark card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=zhongmiao-org&repo=mermaid-markdown-bridge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&disable_animations=true
+          path: assets/cards/project-mermaid-markdown-bridge-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Mermaid Markdown Bridge light card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=zhongmiao-org&repo=mermaid-markdown-bridge&theme=default&hide_border=true&disable_animations=true
+          path: assets/cards/project-mermaid-markdown-bridge-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate intercept-wave dark card
         uses: stats-organization/github-readme-stats-action@v2
         with:

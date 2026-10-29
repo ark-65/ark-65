@@ -19,8 +19,8 @@ def finalize_card(path: Path) -> None:
 
 
 cards = sorted(CARD_DIR.glob("*.svg"))
-if len(cards) != 10:
-    raise RuntimeError(f"Expected 10 README cards, found {len(cards)}")
+if len(cards) != 12:
+    raise RuntimeError(f"Expected 12 README cards, found {len(cards)}")
 
 for card in cards:
     finalize_card(card)

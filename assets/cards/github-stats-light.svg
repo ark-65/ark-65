@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ark-65&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  : 3631, Total PRs: 2827, Total Issues: 156, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  : 3633, Total PRs: 2827, Total Issues: 156, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.06798885531872;
+        stroke-dashoffset: 66.04957306593067;
       }
     }
 
